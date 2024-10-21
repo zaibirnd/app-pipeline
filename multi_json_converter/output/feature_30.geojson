@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            68.45299149097687,
+                            28.2752016952769,
+                            0
+                        ],
+                        [
+                            68.45298717906351,
+                            28.275197383363533,
+                            0
+                        ],
+                        [
+                            68.45298717906351,
+                            28.275193071450172,
+                            0
+                        ],
+                        [
+                            68.45299149097687,
+                            28.275193071450172,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "changes",
+                "fill": "rgba'(0,255,0,1)",
+                "fill-opacity": 0.4,
+                "stroke": [
+                    255,
+                    0,
+                    0
+                ],
+                "stroke-width": 2,
+                "stroke-opacity": 1
+            }
+        }
+    ]
+}
