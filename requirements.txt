@@ -7,3 +7,4 @@ streamlit
 tqdm
 ultralytics
 timm
+segmentation_models_pytorch
