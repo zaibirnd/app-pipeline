@@ -3,6 +3,7 @@ import cv2
 import numpy as np
 import os
 from tqdm import tqdm
+import torch
 
 # Set the title and favicon that appear in the Browser's tab bar.
 st.set_page_config(
