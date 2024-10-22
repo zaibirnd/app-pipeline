@@ -5,7 +5,7 @@ import os
 from tqdm import tqdm
 
 # main_cd_test.py
-import torchfrom argparse import ArgumentParser
+from argparse import ArgumentParser
 import torch
 from models.trainer import *
 import os
